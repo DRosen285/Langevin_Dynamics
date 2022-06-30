@@ -1,0 +1,6 @@
+MODEL        1  
+ATOM      5  CA  TYR P   1      -9.037   1.105  -6.053  0.00  1.00      P    C  
+ATOM     17  CA  TYR P   2      -5.815   1.083  -3.900  0.00  1.00      P    C  
+ATOM     60  CA  GLY P   3       5.126   0.369  -1.467  0.00  1.00      P    C  
+ATOM     64  CA  THR P   4       6.946  -2.124   0.905  0.00  1.00      P    C  
+TER
